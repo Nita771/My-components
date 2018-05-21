@@ -1,0 +1,1 @@
+There are three types of footer: absolute, calc and Bootsrap solutions.
